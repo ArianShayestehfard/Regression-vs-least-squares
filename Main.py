@@ -1,6 +1,5 @@
 import numpy
 import pandas
-import matplotlib.pyplot as mplt
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
