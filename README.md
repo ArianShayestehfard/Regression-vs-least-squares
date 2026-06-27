@@ -1,1 +1,2 @@
-Linear Algebra Regression vs Least Squares for Dr.Abbaszadeh
+# Linear Algebra Project
+Regression vs Least Squares for Dr.Abbaszadeh
